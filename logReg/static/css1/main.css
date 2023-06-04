@@ -1,0 +1,27 @@
+
+#bg{
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: 1800px 900px;
+background-attachment: fixed;
+
+}
+
+.h1
+{
+    font-size: 100px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.card{
+    margin-bottom: 90px;
+    margin-top: 90px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.mt-0 {
+  margin-top: 0 !important;
+}

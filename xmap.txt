@@ -1,0 +1,5 @@
+xmap server use
+xmap server start-c drive-floder xmap-xmap control-start Apache and start Mysql
+django-admin startproject logReg
+django-admin startapp logReg.application
+python manage.py runserver
